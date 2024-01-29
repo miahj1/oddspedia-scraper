@@ -1,8 +1,8 @@
 # Oddspedia Scraper
-<p align="center">
+<div align="center">
     <img src="https://github.com/miahj1/oddspedia-scraper/assets/84815985/9dff84fb-c35b-4eaf-b753-bc9d5f6a6611" alt="oddspedia logo">
     <div align="center"><a href="https://oddspedia.com/">Homepage</a> | <a href="https://oddspedia.com/counter-strike-global-offensive/odds">CS:GO</a></div>
-</p>
+</div>
 
 
 ## Summary
