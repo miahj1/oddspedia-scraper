@@ -13,8 +13,9 @@ The client wanted the following elements from the webpage: <br>
 - `Match Details` for all the matches especially the name of the teams, the venue, the starting time, and the starting date.
 - `Odds Movement` for all the matches specifically the highest odds, the lowest odds, and the average odds.
 
-![image](https://github.com/miahj1/oddspedia-scraper/assets/84815985/9a9b4bc8-2556-4a28-852a-914a56481143)<br>
-![image](https://github.com/miahj1/oddspedia-scraper/assets/84815985/215af60f-a2c1-431a-96a2-dcb4279ad94f)<br>
-![image](https://github.com/miahj1/oddspedia-scraper/assets/84815985/363149a8-4e36-44d1-aceb-e261456469d8)<br>
-![image](https://github.com/miahj1/oddspedia-scraper/assets/84815985/2650b452-55a8-4e27-a337-3157eaf48834)<br>
+| Match Odds             |  Handicap Odds |
+:-------------------------:|:-------------------------:
+![](https://github.com/miahj1/oddspedia-scraper/assets/84815985/9a9b4bc8-2556-4a28-852a-914a56481143)  |  ![](https://github.com/miahj1/oddspedia-scraper/assets/84815985/215af60f-a2c1-431a-96a2-dcb4279ad94f)
+| Match Details             |  Odds Movement |
+![](https://github.com/miahj1/oddspedia-scraper/assets/84815985/363149a8-4e36-44d1-aceb-e261456469d8)  |  ![](https://github.com/miahj1/oddspedia-scraper/assets/84815985/2650b452-55a8-4e27-a337-3157eaf48834)
 
