@@ -1,6 +1,6 @@
 # Oddspedia Scraper
 <div align="center">
-    <img src="https://github.com/miahj1/oddspedia-scraper/assets/84815985/9dff84fb-c35b-4eaf-b753-bc9d5f6a6611" alt="oddspedia logo">
+    <picture><img alt="oddspedia logo" src="https://github.com/miahj1/oddspedia-scraper/assets/84815985/9dff84fb-c35b-4eaf-b753-bc9d5f6a6611"></picture>
     <div align="center"><a href="https://oddspedia.com/">Homepage</a> | <a href="https://oddspedia.com/counter-strike-global-offensive/odds">CS:GO</a></div>
 </div>
 
@@ -19,14 +19,17 @@ The client wanted the following elements from the webpage: <br>
 
 A picture of all the elements are shown in <b>Table 1</b> below.
 
+
+
 | Match Odds             |  Handicap Odds |
 :-------------------------:|:-------------------------:
-![](https://github.com/miahj1/oddspedia-scraper/assets/84815985/9a9b4bc8-2556-4a28-852a-914a56481143)  |  ![](https://github.com/miahj1/oddspedia-scraper/assets/84815985/215af60f-a2c1-431a-96a2-dcb4279ad94f)
+<picture><img alt="Match Odds" src="https://github.com/miahj1/oddspedia-scraper/assets/84815985/9a9b4bc8-2556-4a28-852a-914a56481143"></picture>  |  <picture><img alt="Handicap Odds" src="https://github.com/miahj1/oddspedia-scraper/assets/84815985/215af60f-a2c1-431a-96a2-dcb4279ad94f"></picture>
 | Match Details             |  Odds Movement |
-![](https://github.com/miahj1/oddspedia-scraper/assets/84815985/363149a8-4e36-44d1-aceb-e261456469d8)  |  ![](https://github.com/miahj1/oddspedia-scraper/assets/84815985/2650b452-55a8-4e27-a337-3157eaf48834)
+<picture><img alt="Match Details" src="https://github.com/miahj1/oddspedia-scraper/assets/84815985/363149a8-4e36-44d1-aceb-e261456469d8"></picture>  |  <picture><img alt="Odds Movement" src="https://github.com/miahj1/oddspedia-scraper/assets/84815985/2650b452-55a8-4e27-a337-3157eaf48834"></picture>
 <p align="center"><strong>Table 1:</strong> <i>Screenshots of each section of the website that requires data extraction.</i></p>
 
 ## Client Feedback
-![image](https://github.com/miahj1/oddspedia-scraper/assets/84815985/d36c4d98-6686-4c81-a7e7-b4551e8fc880)<br>
+<picture><img alt="UpWork Client Feedback" src="https://github.com/miahj1/oddspedia-scraper/assets/84815985/d36c4d98-6686-4c81-a7e7-b4551e8fc880"></picture><br>
+Access [Jabed's Upwork Profile](https://www.upwork.com/freelancers/~015c02be44f8ce7ceb).
 
-You can access [Jabed's Upwork Profile](https://www.upwork.com/freelancers/~015c02be44f8ce7ceb).
+
