@@ -27,4 +27,6 @@ A picture of all the elements are shown in <b>Table 1</b> below.
 <p align="center"><strong>Table 1:</strong> <i>Screenshots of each section of the website that requires data extraction.</i></p>
 
 ## Client Feedback
-![image](https://github.com/miahj1/oddspedia-scraper/assets/84815985/d36c4d98-6686-4c81-a7e7-b4551e8fc880)
+![image](https://github.com/miahj1/oddspedia-scraper/assets/84815985/d36c4d98-6686-4c81-a7e7-b4551e8fc880)<br>
+
+You can access [Jabed's Upwork Profile](https://www.upwork.com/freelancers/~015c02be44f8ce7ceb).
