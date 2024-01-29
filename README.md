@@ -25,3 +25,6 @@ A picture of all the elements are shown in <b>Table 1</b> below.
 | Match Details             |  Odds Movement |
 ![](https://github.com/miahj1/oddspedia-scraper/assets/84815985/363149a8-4e36-44d1-aceb-e261456469d8)  |  ![](https://github.com/miahj1/oddspedia-scraper/assets/84815985/2650b452-55a8-4e27-a337-3157eaf48834)
 <p align="center"><strong>Table 1:</strong> <i>Screenshots of each section of the website that requires data extraction.</i></p>
+
+## Client Feedback
+![image](https://github.com/miahj1/oddspedia-scraper/assets/84815985/d36c4d98-6686-4c81-a7e7-b4551e8fc880)
