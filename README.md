@@ -36,6 +36,12 @@ A picture of all the elements are shown in <b>Table 1</b> below.
 <picture><img alt="Match Details" src="https://github.com/miahj1/oddspedia-scraper/assets/84815985/363149a8-4e36-44d1-aceb-e261456469d8"></picture>  |  <picture><img alt="Odds Movement" src="https://github.com/miahj1/oddspedia-scraper/assets/84815985/2650b452-55a8-4e27-a337-3157eaf48834"></picture>
 <p align="center"><strong>Table 1:</strong> <i>Screenshots of each section of the website that requires data extraction.</i></p>
 
+## Data Preview
+A short peak into what the collected, organized, and pre-processed data looks like.
+
+<picture><img alt="oddspedia data preview" src="https://github.com/miahj1/oddspedia-scraper/assets/84815985/2c6fe539-9ca3-4784-b9aa-d788dea950c9"></picture>
+
+
 ## Client Feedback
 <picture><img alt="UpWork Client Feedback" src="https://github.com/miahj1/oddspedia-scraper/assets/84815985/d36c4d98-6686-4c81-a7e7-b4551e8fc880"></picture><br>
 Access [Jabed's Upwork Profile](https://www.upwork.com/freelancers/~015c02be44f8ce7ceb).
